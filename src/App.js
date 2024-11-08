@@ -14,7 +14,7 @@ class App {
 
     const storage = new UpdateStorage(buyProducts);
     storage.allUpdateStorage();
-    console.log(storage);
+    console.log(product);
   }
 }
 
