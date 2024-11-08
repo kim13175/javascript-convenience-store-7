@@ -1,4 +1,4 @@
-import {product} from "../constant/productConstant.js";
+import {product} from "../domain/Product.js";
 
 class UpdateStorage {
     constructor (products){

@@ -1,4 +1,4 @@
-import { product } from "../constant/productConstant.js";
+import { product } from "../domain/Product.js";
 import { Console } from "@woowacourse/mission-utils";
 import { Message } from "../constant/Message.js";
 
